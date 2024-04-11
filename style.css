@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(#5463E8,#5CDCCC);
+}
+
+h1 {
+    text-align: center;
+    font-size:   58px;
+}
+
+.lkf:hover {
+    width: 407px;
+    height: 249;
+    transform: translateX(200px);
+    transition: 6s linear;
+}
+
+.bgk {
+    color: #0E0AD4;
+}
+
+.ylf {
+    color: #219F3D;
+}
+
+.ikp {
+    color: #6319AE;
+}
+
+.lfth:hover {
+    transform: translateX(150px);
+    transition: 4s linear;
+}
